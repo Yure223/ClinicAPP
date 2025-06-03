@@ -8,10 +8,9 @@ O ClinicAPP é um aplicativo desenvolvido em React Native com Expo que permite a
 
 ## 🚀 Funcionalidades
 
-- 🐶 **Pets para Adoção** — Visualização dos animais disponíveis, filtragem por categorias (Cachorros, Gatos, Aves, Outros) e favoritos.
-- 🏥 **Nossa Clínica** — Informações sobre serviços veterinários, agendamento de consultas e localização.
-- ❤️ **Favoritos** — Permite que o usuário salve seus pets favoritos.
-- 🔍 **Busca por Categoria** — Filtragem rápida e intuitiva dos pets.
+-
+- 🏥 **Nossa Clínica** — Informações sobre serviços, agendamento de consultas e localização.
+- ❤️ **Agendamentos** — Agendamentos de consultas nas clinicas de brasilia e hospitais.
 - ☁️ **Integração com Firebase** — Backend utilizando Firestore, Authentication.
 
 
