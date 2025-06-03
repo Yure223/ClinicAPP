@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Home Hospital",
+    "specialty": "Clínica Geral",
+    "address": "Av. Central, 123 - Brasília, DF",
+    "phone": "+5561999990001",
+    "bio": "Oferecemos consultas, exames e acompanhamento médico.",
+    "image": "https://www.homehospital.com.br/HOMEHospital/Arquivos/Revista_HOME-grafica_14-05.jpg"
+  },
+  {
+    "id": "2",
+    "name": "UNB HUB EBSERH",
+    "specialty": "Universidade de Brasília - Hospital Universitário",
+    "address": "Rua das Flores, 456 - Brasília, DF",
+    "phone": "+5561999990002",
+    "bio": "Atendimento especializado com tecnologia de ponta e equipe qualificada.",
+    "image": "https://lh3.googleusercontent.com/proxy/SURePnlXOO19SdmhHLF-rhINAOQeUBG3k2D3O6-DMw4kyqePFPiffzB9iZS7COGHOi2wDICMCEbltmKbIY68RwAkMqkV0l8PoTlBU_IzqCFM1gm2KVjqC3hZ7bjihVyHUXYvQJUV4MATbiYDk94MjjCpK-6AFzB0y6kG50qurTaP2Wzfdu9XSjYhohdt"
+  },
+  {
+    "id": "3",
+    "name": "Clínica Lucio Costa",
+    "specialty": "Clínica Geral",
+    "address": "Av L2 Sul, Brasília, DF",
+    "phone": "+5561999990003",
+    "bio": "Cuidado completo para sua pele e bem-estar.",
+    "image": "https://baseincorporacoes.com.br/wp-content/uploads/2022/05/LC1.jpeg"
+  },
+    {
+    "id": "4",
+    "name": "Santa Helena",
+    "specialty": "Clínica Geral",
+    "address": "Av L2 Sul, Brasília, DF",
+    "phone": "+5561999990003",
+    "bio": "Cuidado completo para sua pele e bem-estar.",
+    "image": "https://wp.rededorsaoluiz.com.br/santa-helena/wp-content/uploads/sites/28/2019/06/Fachada_Santa-Helena-DF-min-682x290.jpg"
+  }
+]
